@@ -1,0 +1,27 @@
+# data files
+data/
+
+# learned models
+model/
+
+# running enviroments
+env/
+
+# output
+output/
+
+# pycharm
+.idea/
+
+# log files
+*.log
+
+#
+*.ipynb
+
+#
+.ipynb_checkpoints
+
+#
+src/__pycache__/
+

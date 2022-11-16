@@ -16,8 +16,6 @@ output/
 # log files
 *.log
 
-#
-*.ipynb
 
 #
 .ipynb_checkpoints
